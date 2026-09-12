@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//shaunadam//willowpark-lunch-ics//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Willow Park Lunch
+BEGIN:VEVENT
+UID:willowpark-lunch-20260901@shaunadam-willowpark-lunch-ics
+DTSTAMP:20260912T024105Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Chicken Tenders $3.00
+DESCRIPTION:Chicken Tenders $3.00
+END:VEVENT
+BEGIN:VEVENT
+UID:willowpark-lunch-20260902@shaunadam-willowpark-lunch-ics
+DTSTAMP:20260912T024105Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Taco in a Bag - $3.00 | Cookie of the day - $1.00 | Ice Cream cup - $1.00
+DESCRIPTION:Taco in a Bag - $3.00\nCookie of the day - $1.00\nIce Cream cup - $1.00
+END:VEVENT
+BEGIN:VEVENT
+UID:willowpark-lunch-20260903@shaunadam-willowpark-lunch-ics
+DTSTAMP:20260912T024105Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Chicken Burgers - $3.00
+DESCRIPTION:Chicken Burgers - $3.00
+END:VEVENT
+BEGIN:VEVENT
+UID:willowpark-lunch-20260907@shaunadam-willowpark-lunch-ics
+DTSTAMP:20260912T024105Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Labor Day - No School
+DESCRIPTION:Labor Day - No School
+END:VEVENT
+BEGIN:VEVENT
+UID:willowpark-lunch-20260908@shaunadam-willowpark-lunch-ics
+DTSTAMP:20260912T024105Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Mac n Cheese - $3.00 | Garlic Toast - $1.00
+DESCRIPTION:Mac n Cheese - $3.00\nGarlic Toast - $1.00
+END:VEVENT
+BEGIN:VEVENT
+UID:willowpark-lunch-20260909@shaunadam-willowpark-lunch-ics
+DTSTAMP:20260912T024105Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Beef and Cheese Taco - $3.00 | Cookie of the Day - $1.00
+DESCRIPTION:Beef and Cheese Taco - $3.00\nCookie of the Day - $1.00
+END:VEVENT
+BEGIN:VEVENT
+UID:willowpark-lunch-20260910@shaunadam-willowpark-lunch-ics
+DTSTAMP:20260912T024105Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:All Beef Hot Dogs - $3.00
+DESCRIPTION:All Beef Hot Dogs - $3.00
+END:VEVENT
+END:VCALENDAR
