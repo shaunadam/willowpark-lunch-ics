@@ -4,67 +4,67 @@ PRODID:-//shaunadam//willowpark-lunch-ics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Willow Park Lunch
 BEGIN:VEVENT
-UID:willowpark-lunch-20260921@shaunadam-willowpark-lunch-ics
-DTSTAMP:20260919T220510Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:Ham and Cheese Butter Croissant - $3.00
-DESCRIPTION:Ham and Cheese Butter Croissant - $3.00
+UID:willowpark-lunch-20261005@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261002T220538Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Mac n Cheese - $3.00
+DESCRIPTION:Mac n Cheese - $3.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20260922@shaunadam-willowpark-lunch-ics
-DTSTAMP:20260919T220510Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Giant Pretzel with Cheese Sauce $3.00
-DESCRIPTION:Giant Pretzel with Cheese Sauce $3.00
+UID:willowpark-lunch-20261006@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261002T220538Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Loaded Nachos (with ground beef) $3.00
+DESCRIPTION:Loaded Nachos (with ground beef) $3.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20260923@shaunadam-willowpark-lunch-ics
-DTSTAMP:20260919T220510Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Taco in a Bag - $3.00 | Cookie of the day - $1.00
-DESCRIPTION:Taco in a Bag - $3.00\nCookie of the day - $1.00
+UID:willowpark-lunch-20261007@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261002T220538Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Chicken Ranch Wrap - $3.00 | Cookie of the day - $1.00
+DESCRIPTION:Chicken Ranch Wrap - $3.00\nCookie of the day - $1.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20260924@shaunadam-willowpark-lunch-ics
-DTSTAMP:20260919T220510Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Beef Burger - $3.00 | Cheese Burger - $3.50
-DESCRIPTION:Beef Burger - $3.00\nCheese Burger - $3.50
+UID:willowpark-lunch-20261008@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261002T220538Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Giant Sausage Roll - $3.00
+DESCRIPTION:Giant Sausage Roll - $3.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20260928@shaunadam-willowpark-lunch-ics
-DTSTAMP:20260919T220510Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Cheese Tortellini with Marinara Sauce - $3.00
-DESCRIPTION:Cheese Tortellini with Marinara Sauce - $3.00
+UID:willowpark-lunch-20261012@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261002T220538Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Thanksgiving Day - No School
+DESCRIPTION:Thanksgiving Day - No School
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20260929@shaunadam-willowpark-lunch-ics
-DTSTAMP:20260919T220510Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Beef Crumbel & Cheese tacos - $3.00
-DESCRIPTION:Beef Crumbel & Cheese tacos - $3.00
+UID:willowpark-lunch-20261013@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261002T220538Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Chicken Penne Alfredo - $3.00
+DESCRIPTION:Chicken Penne Alfredo - $3.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20260930@shaunadam-willowpark-lunch-ics
-DTSTAMP:20260919T220510Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:No School - National Truth and Reconciliation Day
-DESCRIPTION:No School - National Truth and Reconciliation Day
+UID:willowpark-lunch-20261014@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261002T220538Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Chili with Garlic Toast - $3.00 | Cookie of the day - $1.00
+DESCRIPTION:Chili with Garlic Toast - $3.00\nCookie of the day - $1.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20261001@shaunadam-willowpark-lunch-ics
-DTSTAMP:20260919T220510Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:All Beef Hotdogs - $3.00
-DESCRIPTION:All Beef Hotdogs - $3.00
+UID:willowpark-lunch-20261015@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261002T220538Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Chicken Burger - $3.00
+DESCRIPTION:Chicken Burger - $3.00
 END:VEVENT
 END:VCALENDAR
