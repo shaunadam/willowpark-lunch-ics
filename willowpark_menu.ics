@@ -4,67 +4,67 @@ PRODID:-//shaunadam//willowpark-lunch-ics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Willow Park Lunch
 BEGIN:VEVENT
-UID:willowpark-lunch-20261005@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261002T220538Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Mac n Cheese - $3.00
-DESCRIPTION:Mac n Cheese - $3.00
+UID:willowpark-lunch-20261019@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261016T220500Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:PD Day. No School
+DESCRIPTION:PD Day. No School
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20261006@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261002T220538Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Loaded Nachos (with ground beef) $3.00
-DESCRIPTION:Loaded Nachos (with ground beef) $3.00
+UID:willowpark-lunch-20261020@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261016T220500Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Ham & Cheese Croissant $3.00
+DESCRIPTION:Ham & Cheese Croissant $3.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20261007@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261002T220538Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Chicken Ranch Wrap - $3.00 | Cookie of the day - $1.00
-DESCRIPTION:Chicken Ranch Wrap - $3.00\nCookie of the day - $1.00
+UID:willowpark-lunch-20261021@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261016T220500Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Giant Pretzel with cheese sauce - $3.00 | Cookie of the day - $1.00
+DESCRIPTION:Giant Pretzel with cheese sauce - $3.00\nCookie of the day - $1.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20261008@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261002T220538Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Giant Sausage Roll - $3.00
-DESCRIPTION:Giant Sausage Roll - $3.00
+UID:willowpark-lunch-20261022@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261016T220500Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Beef Burger - $3.00 | Beef Burger with cheese - $3.50 | (Gluten free buns available on request)
+DESCRIPTION:Beef Burger - $3.00\nBeef Burger with cheese - $3.50\n(Gluten free buns available on request)
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20261012@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261002T220538Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Thanksgiving Day - No School
-DESCRIPTION:Thanksgiving Day - No School
+UID:willowpark-lunch-20261026@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261016T220500Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Cheese Tortellini with pasta sauce - $3.00
+DESCRIPTION:Cheese Tortellini with pasta sauce - $3.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20261013@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261002T220538Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Chicken Penne Alfredo - $3.00
-DESCRIPTION:Chicken Penne Alfredo - $3.00
+UID:willowpark-lunch-20261027@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261016T220500Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Beef and Cheese Tacos - $3.00
+DESCRIPTION:Beef and Cheese Tacos - $3.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20261014@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261002T220538Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Chili with Garlic Toast - $3.00 | Cookie of the day - $1.00
-DESCRIPTION:Chili with Garlic Toast - $3.00\nCookie of the day - $1.00
+UID:willowpark-lunch-20261028@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261016T220500Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Chicken Strips - $3.00 | Cookie of the day - $1.00
+DESCRIPTION:Chicken Strips - $3.00\nCookie of the day - $1.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20261015@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261002T220538Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Chicken Burger - $3.00
-DESCRIPTION:Chicken Burger - $3.00
+UID:willowpark-lunch-20261029@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261016T220500Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:All Beef Hotdogs - $3.00 | (Gluten free buns available on request)
+DESCRIPTION:All Beef Hotdogs - $3.00\n(Gluten free buns available on request)
 END:VEVENT
 END:VCALENDAR
