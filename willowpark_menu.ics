@@ -4,67 +4,67 @@ PRODID:-//shaunadam//willowpark-lunch-ics//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Willow Park Lunch
 BEGIN:VEVENT
-UID:willowpark-lunch-20261019@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261016T220500Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:PD Day. No School
-DESCRIPTION:PD Day. No School
+UID:willowpark-lunch-20261102@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261030T221125Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Mac n Cheese - $3.00
+DESCRIPTION:Mac n Cheese - $3.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20261020@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261016T220500Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:Ham & Cheese Croissant $3.00
-DESCRIPTION:Ham & Cheese Croissant $3.00
+UID:willowpark-lunch-20261103@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261030T221125Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Loaded Nachos (with ground beef) $3.00
+DESCRIPTION:Loaded Nachos (with ground beef) $3.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20261021@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261016T220500Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Giant Pretzel with cheese sauce - $3.00 | Cookie of the day - $1.00
-DESCRIPTION:Giant Pretzel with cheese sauce - $3.00\nCookie of the day - $1.00
+UID:willowpark-lunch-20261104@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261030T221125Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Chicken Ranch wrap - $3.00 | Cookie of the day - $1.00
+DESCRIPTION:Chicken Ranch wrap - $3.00\nCookie of the day - $1.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20261022@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261016T220500Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Beef Burger - $3.00 | Beef Burger with cheese - $3.50 | (Gluten free buns available on request)
-DESCRIPTION:Beef Burger - $3.00\nBeef Burger with cheese - $3.50\n(Gluten free buns available on request)
+UID:willowpark-lunch-20261105@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261030T221125Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Beef Burger - $3.00 | Beef Burger with Cheese $3.50
+DESCRIPTION:Beef Burger - $3.00\nBeef Burger with Cheese $3.50
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20261026@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261016T220500Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Cheese Tortellini with pasta sauce - $3.00
-DESCRIPTION:Cheese Tortellini with pasta sauce - $3.00
+UID:willowpark-lunch-20261109@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261030T221125Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Chicken Penne Alfredo - $3.00
+DESCRIPTION:Chicken Penne Alfredo - $3.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20261027@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261016T220500Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Beef and Cheese Tacos - $3.00
-DESCRIPTION:Beef and Cheese Tacos - $3.00
+UID:willowpark-lunch-20261110@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261030T221125Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Chili with Garlic toast - $3.00
+DESCRIPTION:Chili with Garlic toast - $3.00
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20261028@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261016T220500Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Chicken Strips - $3.00 | Cookie of the day - $1.00
-DESCRIPTION:Chicken Strips - $3.00\nCookie of the day - $1.00
+UID:willowpark-lunch-20261111@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261030T221125Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:No School - Remembrance Day
+DESCRIPTION:No School - Remembrance Day
 END:VEVENT
 BEGIN:VEVENT
-UID:willowpark-lunch-20261029@shaunadam-willowpark-lunch-ics
-DTSTAMP:20261016T220500Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:All Beef Hotdogs - $3.00 | (Gluten free buns available on request)
-DESCRIPTION:All Beef Hotdogs - $3.00\n(Gluten free buns available on request)
+UID:willowpark-lunch-20261112@shaunadam-willowpark-lunch-ics
+DTSTAMP:20261030T221125Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:No School Thursday - Friday - Fall Break
+DESCRIPTION:No School Thursday - Friday - Fall Break
 END:VEVENT
 END:VCALENDAR
